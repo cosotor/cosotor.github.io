@@ -17,15 +17,19 @@ Cosotor is your personal assistant, designed to make your buying from China easi
 ## 下载我们的App：（下载链接马上更新）
 
 主页
+
 <img src="https://cosotor.github.io/0-main-zh.png" width="200">
 
 找货页
+
 <img src="https://cosotor.github.io/1-buy-zh.png" width="200">
 
 社区发帖页面
+
 <img src="https://cosotor.github.io/2-com.png" width="200">
 
 也支持英文
+
 <img src="https://cosotor.github.io/0-main-en.png" width="200">
 
 ## 联系方式
