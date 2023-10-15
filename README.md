@@ -9,9 +9,7 @@ Cosotor is your personal assistant, designed to make your buying from China easi
 ## 帮你解决的问题
 
 - **找货:** 集客帮你找到便宜和好的货源
-- 
 - **找集运:** 集客帮你找到可靠的承运商来重新打包和运输.
-
 - **社区:** 集客帮你找到朋友和出售不能给退货的商品.
 
 
