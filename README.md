@@ -1,7 +1,7 @@
 
 # Welcome to Cosotor 集客
 
-![Cosotor Logo](https://cosotor.github.io/assets/images/cosotor-logo.png)
+![Cosotor Logo](https://cosotor.github.io/logo.png)
 
 Cosotor is your personal assistant, designed to make your life easier and more organized. Whether you need help managing your tasks, setting reminders, or simply getting answers to your questions, Cosotor is here to assist you. This is the official website for Cosotor, where you can learn more about the app and how to get started.
 
