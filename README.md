@@ -22,6 +22,7 @@ Here are a few screenshots of the Cosotor app in action:
 ![Screenshot 1](https://cosotor.github.io/assets/images/0-main-zh.png)
 ![Screenshot 2](https://cosotor.github.io/assets/images/1-buy-zh.png)
 ![Screenshot 3](https://cosotor.github.io/assets/images/2-com.png.png)
+![Screenshot 1](https://cosotor.github.io/assets/images/0-main-en.png)
 
 ## Getting Started
 
