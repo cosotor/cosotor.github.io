@@ -19,7 +19,7 @@ Cosotor is your personal assistant, designed to make your buying from China easi
 主页
 ![Screenshot 1](https://cosotor.github.io/0-main-zh.png)
 
-<img src="[Assets/icon.png](https://cosotor.github.io/0-main-zh.png)" width="200">
+<img src="https://cosotor.github.io/0-main-zh.png" width="200">
 
 找货页
 ![Screenshot 2](https://cosotor.github.io/1-buy-zh.png)
