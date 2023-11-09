@@ -3,15 +3,13 @@
 
 ![Cosotor Logo](https://cosotor.github.io/logo.png)
 
-Cosotor is your personal assistant, designed to make your buying from China easier and cheaper. 
-
-集客是您的个人助手，旨在使您从中国购买变得更加轻松和经济实惠。
+集客是您的个人助手，旨在使您从中国购买变得更加轻松和经济实惠。Cosotor is your personal assistant, designed to make your buying from China easier and cheaper. 
 
 ## 帮你解决的问题
 
-- **找货:** 集客帮你找到便宜和好的货源
-- **找集运:** 集客帮你找到可靠的承运商来重新打包和运输.
-- **社区:** 集客帮你找到朋友和出售不能给退货的商品.
+- **找货:** Cosotor帮你找到便宜和好的货源
+- **找集运:** Cosotor帮你找到可靠的承运商来重新打包和运输.
+- **社区:** Cosotor帮你找到朋友和出售不能给退货的商品.
 
 
 ## 下载我们的App：
@@ -20,7 +18,7 @@ Cosotor is your personal assistant, designed to make your buying from China easi
 
 <img src="https://cosotor.github.io/cosotor-qr-code.png" width="100" height="100">
 
-或者点击链接下载 https://apps.apple.com/us/app/cosotor/id6469003712
+或者点击链接下载 [https://apps.apple.com/us/app/cosotor/id6469003712](https://apps.apple.com/us/app/cosotor/id6469003712)
 
 下面是一些使用截图
 
@@ -29,26 +27,11 @@ Cosotor is your personal assistant, designed to make your buying from China easi
 | <img src="https://cosotor.github.io/0-main-zh.png" width="150">  | <img src="https://cosotor.github.io/1-buy-zh.png" width="150"> | <img src="https://cosotor.github.io/2-com.png" width="150"> | <img src="https://cosotor.github.io/0-main-en.png" width="150">
 
 
-主页
-
-<img src="https://cosotor.github.io/0-main-zh.png" width="150">
-
-找货页
-
-<img src="https://cosotor.github.io/1-buy-zh.png" width="150">
-
-社区发帖页面
-
-<img src="https://cosotor.github.io/2-com.png" width="150">
-
-也支持英文
-
-<img src="https://cosotor.github.io/0-main-en.png" width="150">
 
 ## 联系方式
 有问题请联系：[cosotor.help@gmail.com](mailto:cosotor.help@gmail.com)
 
-我们的主页 [official website](https://cosotor.github.io)
+我们的主页 [www.cosotor.com](https://cosotor.github.io)
 
 
 
