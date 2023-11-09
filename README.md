@@ -15,7 +15,9 @@
 ## 安装我们我们的App的方式：
 
 - 打开手机扫描下面二维码下载App（目前只支持Apple Store）
-   <img src="https://cosotor.github.io/cosotor-qr-code.png" width="100" height="100">
+
+  <img src="https://cosotor.github.io/cosotor-qr-code.png" width="120" height="120">
+  
 - 点击链接下载 [https://apps.apple.com/us/app/cosotor/id6469003712](https://apps.apple.com/us/app/cosotor/id6469003712)
 - 打开Apple Store，搜索“Cosotor"下载
 
