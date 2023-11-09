@@ -3,7 +3,7 @@
 
 集客是您的个人助手，旨在帮您从中国购买变得更加轻松和经济实惠。Cosotor is your personal assistant, designed to make your buying from China easier and cheaper. 
 
-## 帮您解决的问题
+## Cosotor帮您解决下面的问题
 
 - **找货:** Cosotor帮你找到便宜和好的货源
 - **找集运:** Cosotor帮你找到可靠的承运商来重新打包和运输.
