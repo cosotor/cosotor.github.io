@@ -12,13 +12,12 @@
 - **社区:** Cosotor帮你找到朋友和出售不能给退货的商品.
 
 
-## 下载我们的App：
+## 安装我们我们的App的方式：
 
-扫描下面二维码下载App
-
-<img src="https://cosotor.github.io/cosotor-qr-code.png" width="100" height="100">
-
-或者点击链接下载 [https://apps.apple.com/us/app/cosotor/id6469003712](https://apps.apple.com/us/app/cosotor/id6469003712)
+- 打开手机扫描下面二维码下载App（目前只支持Apple Store）
+   <img src="https://cosotor.github.io/cosotor-qr-code.png" width="100" height="100">
+- 点击链接下载 [https://apps.apple.com/us/app/cosotor/id6469003712](https://apps.apple.com/us/app/cosotor/id6469003712)
+- 打开Apple Store，搜索“Cosotor"下载
 
 下面是一些使用截图
 
