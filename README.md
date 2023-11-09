@@ -17,7 +17,7 @@ Cosotor is your personal assistant, designed to make your buying from China easi
 ## 下载我们的App：
 
 扫描下面二维码下载App
-![Cosotor Logo](https://cosotor.github.io/cosotor-qr-code.png)
+![Cosotor QR Code](https://cosotor.github.io/cosotor-qr-code.png){:height="36px" width="36px"}
 
 或者点击链接下载 https://apps.apple.com/us/app/cosotor/id6469003712
 主页
