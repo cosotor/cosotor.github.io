@@ -3,23 +3,25 @@
 
 ![Cosotor Logo](https://cosotor.github.io/logo.png)
 
-集客是您的个人助手，旨在使您从中国购买变得更加轻松和经济实惠。Cosotor is your personal assistant, designed to make your buying from China easier and cheaper. 
+集客是您的个人助手，旨在帮您从中国购买变得更加轻松和经济实惠。Cosotor is your personal assistant, designed to make your buying from China easier and cheaper. 
 
-## 帮你解决的问题
+## 帮您解决的问题
 
 - **找货:** Cosotor帮你找到便宜和好的货源
 - **找集运:** Cosotor帮你找到可靠的承运商来重新打包和运输.
-- **社区:** Cosotor帮你找到朋友和出售不能给退货的商品.
+- **社区:** Cosotor帮你找到朋友一起海运和出售不能退货的商品.
 
 
-## 安装我们我们的App的方式：
+## 安装Cosotor App的方式：
 
-- 打开手机扫描下面二维码下载App（目前只支持Apple Store）
+- 方式一：打开手机扫描下面二维码下载App（目前只支持Apple Store）
 
   <img src="https://cosotor.github.io/cosotor-qr-code.png" width="120" height="120">
+
+- 方式二：打开Apple Store，搜索“Cosotor"下载
+
   
-- 点击链接下载 [https://apps.apple.com/us/app/cosotor/id6469003712](https://apps.apple.com/us/app/cosotor/id6469003712)
-- 打开Apple Store，搜索“Cosotor"下载
+- 方式三：点击链接下载 [https://apps.apple.com/us/app/cosotor/id6469003712](https://apps.apple.com/us/app/cosotor/id6469003712)
 
 下面是一些使用截图
 
