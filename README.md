@@ -1,5 +1,5 @@
 
-# 欢迎来到 Cosotor 集客 <img src="logo.png" width="40" height="40">
+# 欢迎来到 Cosotor 集客 <img src="docs/assets/images/logo.png" width="40" height="40">
 
 集客是您的个人助手，旨在帮您从中国购买变得更加轻松和经济实惠。Cosotor is your personal assistant, designed to make your buying from China easier and cheaper. 
 
@@ -14,7 +14,7 @@
 
 - 方式一：打开手机扫描下面二维码下载App（目前只支持Apple Store）
 
-  <img src="https://cosotor.github.io/cosotor-qr-code.png" width="120" height="120">
+  <img src="docs/assets/images/cosotor-qr-code.png" width="120" height="120">
 
 - 方式二：打开Apple Store，搜索“Cosotor"下载
 
@@ -25,7 +25,7 @@
 
 | 主页  | 找货页 | 社区发帖页面 | 也支持英文 |
 | ------------- | ------------- |------------- | ------------- |
-| <img src="https://cosotor.github.io/0-main-zh.png" width="150">  | <img src="https://cosotor.github.io/1-buy-zh.png" width="150"> | <img src="https://cosotor.github.io/2-com.png" width="150"> | <img src="https://cosotor.github.io/0-main-en.png" width="150">
+| <img src="docs/assets/images/0-main-zh.png" width="150">  | <img src="docs/assets/images/1-buy-zh.png" width="150"> | <img src="docs/assets/images/2-com.png" width="150"> | <img src="docs/assets/images/0-main-en.png" width="150">
 
 
 
