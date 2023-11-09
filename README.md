@@ -14,10 +14,12 @@ Cosotor is your personal assistant, designed to make your buying from China easi
 - **社区:** 集客帮你找到朋友和出售不能给退货的商品.
 
 
-## 下载我们的App：（下载链接马上更新）
+## 下载我们的App：
 
+扫描下面二维码下载App
 ![Cosotor Logo](https://cosotor.github.io/cosotor-qr-code.png)
 
+或者点击链接下载 https://apps.apple.com/us/app/cosotor/id6469003712
 主页
 
 <img src="https://cosotor.github.io/0-main-zh.png" width="200">
