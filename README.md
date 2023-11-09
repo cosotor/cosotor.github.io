@@ -1,7 +1,5 @@
 
-# 欢迎来到 Cosotor 集客
-
-![Cosotor Logo](https://cosotor.github.io/logo.png)
+# 欢迎来到 Cosotor 集客 <img src="https://cosotor.github.io/logo.png" width="120" height="120">
 
 集客是您的个人助手，旨在帮您从中国购买变得更加轻松和经济实惠。Cosotor is your personal assistant, designed to make your buying from China easier and cheaper. 
 
