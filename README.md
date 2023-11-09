@@ -1,5 +1,5 @@
 
-# Welcome to Cosotor 集客
+# 欢迎来到 Cosotor 集客
 
 ![Cosotor Logo](https://cosotor.github.io/logo.png)
 
